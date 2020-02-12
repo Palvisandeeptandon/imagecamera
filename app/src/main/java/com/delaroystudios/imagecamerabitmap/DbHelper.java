@@ -19,9 +19,7 @@ import java.io.InputStreamReader;
 
 import static android.provider.BaseColumns._ID;
 
-/**
- * Created by delaroy on 9/8/17.
- */
+
 
 public class DbHelper extends SQLiteOpenHelper {
     private static final String TAG = DbHelper.class.getSimpleName();

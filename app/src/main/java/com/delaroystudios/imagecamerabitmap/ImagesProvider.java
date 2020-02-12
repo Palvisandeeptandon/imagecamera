@@ -13,9 +13,7 @@ import android.util.Log;
 
 import static android.provider.BaseColumns._ID;
 
-/**
- * Created by delaroy on 9/10/17.
- */
+
 
 public class ImagesProvider extends ContentProvider {
 

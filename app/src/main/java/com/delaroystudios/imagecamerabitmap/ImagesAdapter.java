@@ -12,9 +12,7 @@ import android.widget.ImageView;
 
 
 
-/**
- * Created by delaroy on 9/10/17.
- */
+
 
 public class ImagesAdapter extends RecyclerView.Adapter<ImagesAdapter.ImagesViewHolder> {
 
